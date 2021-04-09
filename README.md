@@ -17,8 +17,6 @@ non-availability of cars leading to loss of potential revenue.
 ## Business Objectives
 The aim of analysis is to identify the root cause of the problem (i.e. cancellation and non-availability of cars) and recommend ways to improve the situation. As a result of your analysis, you should be able to present to the client the root cause(s) and possible hypotheses of the problem(s) and recommend ways to improve them.
 
-Download the dataset from below.
-https://drive.google.com/file/d/1qxKTDG3cIJFW98Xt1YbM1Q6fwvjqpcId/view?usp=sharing
 
 There are six attributes associated with each request made by a customer:
 1. Request id: A unique identifier of the request
@@ -38,4 +36,4 @@ The steps taken to perform this analysis are:
 3. Draw meaningful conclusions using the visualization libraries.
 
 Let us jump right into the analysis and see what can be understood to make relevant conclusions.
-Made by: Utkarsh raj
+
